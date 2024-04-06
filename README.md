@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raffy Maranan</h1>
-<h3 align="center">" A student is interested in learning more about web development. ".</h3>
+<h3 align="center">" A student interested in learning more about web development. ".</h3>
 
 - 📫 How to reach me **raffymaranan22@gmail.com**
 
