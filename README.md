@@ -1,3 +1,9 @@
+Hi there, I'm Raffy Dapadap! 👋
+
+🚀 About Me
+🎓 Gradwaiting for a Bachelor of Science in Information Technology
+💻 Passionate about Web Development, Problem Solving, and Programming
+🎯 Aiming to gain practical experience in Web Development, leadership skills, and project management
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raffymaranan22@gmail.com) 
